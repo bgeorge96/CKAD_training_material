@@ -4,7 +4,7 @@ This is going to be a compilation of the material that is suggested from the CKA
 
 ## Learning by Doing
 
-The goal of this repo is to provide some hands on experiences where possible to get some learning by doing different K8s things. Where applitcable I intent to make folders of problems to help people work through. 
+The goal of this repo is to provide some hands on experiences where possible to get some learning by doing different K8s things. Where applicable I intent to make folders of problems to help people work through. 
 
 If you feel like you need to get up to speed on K8s and some of the basics this Pluralsight video course might be a good place to start: https://app.pluralsight.com/paths/certificate/certified-kubernetes-application-developer-ckad
 
