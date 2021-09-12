@@ -16,6 +16,7 @@ This will be the same objectives as in the pdf mentioned above. I plan to add re
 
 - Understand Kubernetes API primitives
     - [K8s API Resources Docs](https://kubernetes.io/docs/reference/kubernetes-api/)
+    - [TutorialsPoint Guide](https://www.tutorialspoint.com/kubernetes/)
 - Create and configure basic Pod
     - [Pods Docs](https://kubernetes.io/docs/concepts/workloads/pods/)
     - [Different guides to helping setup pods](https://kubernetes.io/docs/tasks/configure-pod-container/)
